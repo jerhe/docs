@@ -32,8 +32,6 @@ normal，manager对应的是角色（role）
 一个角色可以有多个权限（save,update,delete,query等等）
 一个权限只属于一个角色（delete只属于manager角色）
 
-![img](http://img.orz520.com/t01107cba7e76d43d1a.png)
-
  我们创建四张表：
 **t_user**用户表:设置了3个用户
 \-------------------------------
